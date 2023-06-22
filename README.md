@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-### By Lindsay Warr
+#### By Lindsay Warr
 
 ## Technologies Used
 
